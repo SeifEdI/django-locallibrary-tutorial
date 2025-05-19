@@ -2,7 +2,8 @@
 *.bak
 
 #Database
-*.sqlite3
+# the database shall be still the same
+# *.sqlite3 
 
 
 # Byte-compiled / optimized / DLL files
